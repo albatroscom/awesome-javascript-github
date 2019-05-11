@@ -1,0 +1,19 @@
+{
+  "name": "awesome-javascript-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/albatroscom/awesome-javascript-github",
+  "author": "albatroscom <albatroscom@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "joi": "^14.3.1",
+    "node-fetch": "^2.5.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
